@@ -4,7 +4,9 @@ title: "Home"
 description: ""
 ---
 
-Hi! I currently work as a Research Manager at the Centre for Internet Society in Bangalore, India. This website houses research outputs and other publications that I have worked on.
+![Arindrajit](public/basu.jpg)
+
+Hi! I currently work as a Research Manager at the Centre for Internet Society in India. This website houses my research and writing.
 
 ### Long-form articles
 
@@ -17,12 +19,12 @@ Hi! I currently work as a Research Manager at the Centre for Internet Society in
 - [*The Potential for the Normative Regulation of Cyberspace: Implications for India*](https://cis-india.org/internet-governance/blog/the-potential-for-the-normative-regulation-of-cyberspace-implications-for-india) - White Paper, Centre for Internet and Society (30 Jul 2018)
 - [*Conceptualizing an International Security Regime for Cyberspace*](https://cis-india.org/internet-governance/blog/conceptualizing-an-international-security-regime-for-cyberspace) - Briefings of the Global Commission on the Stability of Cyberspace, Bratislava, Slovakia (May 2018)
 - [*A Small Battle for FBI, a Gigantic War for Privacy Rights*](https://www.epw.in/journal/2016/17/commentary/small-battle-fbi-gigantic-war-privacy-rights.html) - Economic and Political Weekly 17 (2016)
-- [*The US-China Cyber-Agreement: Implications for India*](https://www.orfonline.org/wp-content/uploads/2015/12/ORFIssueBrief_114.pdf) - ObserverResearchFoundationIssueBrief No.114 (9 Nov 2015
+- [*The US-China Cyber-Agreement: Implications for India*](https://www.orfonline.org/wp-content/uploads/2015/12/ORFIssueBrief_114.pdf) - Observer Research Foundation Issue Brief No. 114 (9 Nov 2015)
 
 ### Policy submissions
-- [*Comments on 'Pre Draft' of the Report of the UN Open Ended Working Group*]() - Centre for Internet and Society (April 2020)
-- [*Response to the Draft of The Information Technology [Intermediary Guidelines (Amendment) Rules] 2018*]() - Centre for Internet and Society (February 2019)
-- [*Submission to UN High Level Panel on Digital Cooperation*]() - Centre for Internet and Society (February 2019)
+- [*Comments on 'Pre Draft' of the Report of the UN Open Ended Working Group*](https://cis-india.org/internet-governance/blog/cis-comments-on-pre-draft-of-the-report-of-the-un-open-ended-working-group) - Centre for Internet and Society (April 2020)
+- [*Response to the Draft of The Information Technology [Intermediary Guidelines (Amendment) Rules] 2018*](https://cis-india.org/internet-governance/blog/response-to-the-draft-of-the-information-technology-intermediary-guidelines-amendment-rules-2018) - Centre for Internet and Society (February 2019)
+- [*Submission to UN High Level Panel on Digital Cooperation*](https://cis-india.org/internet-governance/blog/cis-submission-to-un-high-level-panel-on-digital-cooperation) - Centre for Internet and Society (February 2019)
 
 ### Opinion pieces and blog posts
 - [*The Retreat of the Data Localization Brigade: India, Indonesia and Vietnam*](https://thediplomat.com/2020/01/the-retreat-of-the-data-localization-brigade-india-indonesia-and-vietnam/) - The Diplomat (January 2020)
