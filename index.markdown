@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Home"
-description: ""
 ---
 
 Hi!  My name is Arindrajit Basu. I currently work as a Research Manager at the Centre for Internet Society in India. This website houses my research and writing.
